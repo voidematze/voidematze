@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin KBRPMatze
+# 👋 Hi, ich bin Matze
 
 💻 Developer • FiveM Systems • Discord Bots
 🚀 Fokus auf Performance, Struktur & saubere Umsetzung
@@ -41,7 +41,7 @@ Mein Schwerpunkt liegt auf modularen FiveM Ressourcen, Discord Bot Systemen und 
 
 ## 🚀 Hauptprojekt
 
-### 🌊 Küstenberg Roleplay – FiveM Server
+### 🌊 Lodge V – FiveM Server
 
 * Custom Server Systeme
 * Job & Mechanic Scripts
@@ -83,7 +83,7 @@ Mein Schwerpunkt liegt auf modularen FiveM Ressourcen, Discord Bot Systemen und 
 ## 📫 Kontakt
 
 * GitHub: https://github.com/KBRPMatze
-* Discord: **matze_kbrp_2025**
+* Discord: **matzeviper112**
 
 ---
 
