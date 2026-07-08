@@ -1,128 +1,273 @@
-::: {align="center"}
-# 👋 Hey, ich bin Matze
+<div align="center">
 
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=FiveM+Developer;Discord+Bot+Developer;Node.js+%7C+Lua+%7C+SQL;Clean+Code+%E2%80%A2+Modular+Systems+%E2%80%A2+Performance" />`{=html}
+# 🌊 Voide Development
 
-### 💻 FiveM • Discord • Backend • Automation
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=FiveM+Developer;Discord+Bot+Developer;JavaScript+%7C+Lua+%7C+SQL;Building+Clean+%26+High+Performance+Systems;Welcome+to+my+GitHub+Profile!">
 
-`<img src="https://komarev.com/ghpvc/?username=KBRPMatze&style=for-the-badge&color=0e75b6"/>`{=html}
-:::
-
-------------------------------------------------------------------------
-
-# 🌊 About Me
-
-Ich entwickle performante FiveM-Systeme, Discord Bots und moderne
-NUI-Interfaces.
-
-## 🚀 Tech
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=js,nodejs,lua,html,css,mysql,git,github,vscode,npm"/>`{=html}
-```{=html}
+<p>
+<a href="https://github.com/KBRPMatze">
+<img src="https://img.shields.io/github/followers/KBRPMatze?label=Followers&style=for-the-badge&color=58A6FF">
+</a>
+<img src="https://komarev.com/ghpvc/?username=KBRPMatze&style=for-the-badge&color=58A6FF">
+<img src="https://img.shields.io/github/stars/KBRPMatze?affiliations=OWNER&style=for-the-badge&color=58A6FF">
 </p>
+
+### 💻 FiveM Development • Discord Systems • Backend Development
+
+*"Build it clean. Build it modular. Build it to last."*
+
+</div>
+
+---
+
+# 👋 About Me
+
+Hi, ich bin **Matze**.
+
+Ich entwickle moderne und performante Systeme für **FiveM**, **Discord** und **Node.js**.
+
+Mein Fokus liegt auf:
+
+- ⚡ Performance
+- 🧩 Modularen Systemen
+- 🚀 Clean Code
+- 💾 Datenbankoptimierung
+- 🎨 Moderne NUI Interfaces
+- 🔒 Skalierbaren Server Systemen
+
+---
+
+# 🚀 Current Focus
+
+```txt
+🌊 FiveM Development
+🤖 Discord Bots
+⚙️ ESX Systems
+📦 ox_inventory
+🎯 ox_target
+📊 Logging Systems
+🧠 Export Libraries
+🎨 NUI Development
+🗄️ MySQL Optimization
 ```
 
-------------------------------------------------------------------------
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,lua,html,css,mysql,git,github,vscode,npm"/>
+
+</p>
+
+---
+
+# 🛠 FiveM Stack
+
+<div align="center">
+
+| Framework | Experience |
+|-----------|------------|
+| ESX | ⭐⭐⭐⭐⭐ |
+| ox_inventory | ⭐⭐⭐⭐⭐ |
+| ox_target | ⭐⭐⭐⭐⭐ |
+| ox_lib | ⭐⭐⭐⭐⭐ |
+| NUI | ⭐⭐⭐⭐⭐ |
+| Lua | ⭐⭐⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐⭐⭐ |
+| SQL | ⭐⭐⭐⭐☆ |
+
+</div>
+
+---
 
 # 📊 GitHub Analytics
 
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=KBRPMatze&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>`{=html}
-`<img height="170" src="https://streak-stats.demolab.com?user=KBRPMatze&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBRPMatze&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
+<div align="center">
 
-------------------------------------------------------------------------
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KBRPMatze&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=KBRPMatze&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBRPMatze&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 # 📈 Contribution Graph
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=KBRPMatze&theme=tokyo-night&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
+<div align="center">
 
-------------------------------------------------------------------------
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KBRPMatze&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
 
 # 🏆 GitHub Trophies
 
-```{=html}
-<p align="center">
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KBRPMatze&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📦 Featured Repository
+
+<div align="center">
+
+## 🌊 voide_hud
+
+Modernes HUD System für FiveM.
+
+### Features
+
+✨ Optimierte Performance
+
+🎨 Modernes UI
+
+⚡ NUI basiert
+
+📱 Responsive Design
+
+🔧 Modular aufgebaut
+
+🚀 Clean Code
+
+</div>
+
+---
+
+# 🚀 FiveM Development
+
+```text
+✔ ESX Development
+
+✔ Custom Jobs
+
+✔ Inventory Systems
+
+✔ Vehicle Systems
+
+✔ Admin Panels
+
+✔ Logging Systems
+
+✔ Export APIs
+
+✔ NUI Interfaces
+
+✔ Performance Optimization
+
+✔ Framework Development
 ```
-`<img src="https://github-profile-trophy.vercel.app/?username=KBRPMatze&theme=tokyonight&no-frame=true&row=2&column=4"/>`{=html}
-```{=html}
-</p>
+
+---
+
+# 🤖 Discord Development
+
+```text
+✔ Ticket Bots
+
+✔ Moderation Bots
+
+✔ Verification
+
+✔ Auto Roles
+
+✔ Logging
+
+✔ Utility Bots
+
+✔ Workflow Automation
+
+✔ Server Management
+
+✔ Slash Commands
 ```
 
-------------------------------------------------------------------------
+---
 
-# 🚀 Featured Projects
+# 🧠 Languages
 
-  Project            Description
-  ------------------ ---------------------------------
-  Lodge V            Custom FiveM Server
-  FiveM Scripts      ESX / ox_inventory / ox_target
-  Discord Bots       Moderation, Tickets, Automation
-  Server Libraries   Modular APIs & Exports
+| Language | Usage |
+|----------|------:|
+| JavaScript | ███████████████ |
+| Lua | ██████████████ |
+| SQL | ███████████ |
+| HTML | █████████ |
+| CSS | ███████ |
 
-------------------------------------------------------------------------
+---
 
-# 🎮 FiveM Focus
+# 📌 Current Goals
 
--   ESX
--   ox_inventory
--   ox_target
--   ox_lib
--   Custom Jobs
--   Admin Panels
--   Logging
--   Monitoring
--   NUI
--   Performance
+- 🚀 Build reusable FiveM Libraries
 
-------------------------------------------------------------------------
+- ⚡ High Performance Resources
 
-# 🤖 Discord
+- 🎨 Beautiful NUI Systems
 
--   Ticket Systems
--   Verification
--   Auto Roles
--   Moderation
--   Logging
--   Utility Bots
+- 📦 Modular Codebase
 
-------------------------------------------------------------------------
+- 🧠 Clean Architecture
 
-# 🎯 Goals
+- 🌊 Expand Voide Development
 
--   Build reusable libraries
--   High performance systems
--   Clean architecture
--   Modern UI/UX
+---
 
-------------------------------------------------------------------------
+# 🎯 Development Philosophy
 
-::: {align="center"}
-## 📫 Contact
+> Clean Code
 
-**GitHub:** https://github.com/KBRPMatze
+> Reusable Systems
 
-**Discord:** `voidematze`
+> High Performance
 
-> Build it clean. Build it modular. Build it to last. 🚀
-:::
+> Modern UI
+
+> Scalability
+
+> Maintainability
+
+---
+
+# 📫 Contact
+
+<div align="center">
+
+### GitHub
+
+https://github.com/KBRPMatze
+
+### Discord
+
+```text
+voidematze
+```
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+```md
+Coming Soon via GitHub Actions
+```
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=58A6FF&center=true&width=700&lines=Thanks+for+visiting!;Leave+a+Star+if+you+like+my+Projects!;See+you+again!+👋">
+
+### 💙 Voide Development
+
+</div>
