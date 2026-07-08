@@ -83,7 +83,7 @@ Mein Schwerpunkt liegt auf modularen FiveM Ressourcen, Discord Bot Systemen und 
 ## 📫 Kontakt
 
 * GitHub: https://github.com/KBRPMatze
-* Discord: **matzeviper112**
+* Discord: **voidematze**
 
 ---
 
