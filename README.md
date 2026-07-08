@@ -6,10 +6,10 @@
 
 <p>
 <a href="https://github.com/KBRPMatze">
-<img src="https://img.shields.io/github/followers/KBRPMatze?label=Followers&style=for-the-badge&color=58A6FF">
+<img src="https://img.shields.io/github/followers/voidematze?label=Followers&style=for-the-badge&color=58A6FF">
 </a>
-<img src="https://komarev.com/ghpvc/?username=KBRPMatze&style=for-the-badge&color=58A6FF">
-<img src="https://img.shields.io/github/stars/KBRPMatze?affiliations=OWNER&style=for-the-badge&color=58A6FF">
+<img src="https://komarev.com/ghpvc/?username=voidematze&style=for-the-badge&color=58A6FF">
+<img src="https://img.shields.io/github/stars/voidematze?affiliations=OWNER&style=for-the-badge&color=58A6FF">
 </p>
 
 ### 💻 FiveM Development • Discord Systems • Backend Development
@@ -86,11 +86,11 @@ Mein Fokus liegt auf:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KBRPMatze&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=voidematze&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=KBRPMatze&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=voidematze&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBRPMatze&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidematze&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -100,7 +100,7 @@ Mein Fokus liegt auf:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KBRPMatze&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=voidematze&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -110,7 +110,7 @@ Mein Fokus liegt auf:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KBRPMatze&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=voidematze&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -242,7 +242,7 @@ Modernes HUD System für FiveM.
 
 ### GitHub
 
-https://github.com/KBRPMatze
+https://github.com/voidematze
 
 ### Discord
 
