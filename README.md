@@ -194,14 +194,11 @@ Modernes HUD System für FiveM.
 
 # 🧠 Languages
 
-| Language | Usage |
-|----------|------:|
-| JavaScript | ███████████████ |
-| Lua | ██████████████ |
-| SQL | ███████████ |
-| HTML | █████████ |
-| CSS | ███████ |
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=voidematze\&layout=compact\&theme=tokyonight\&hide_border=true)
 
+# 📊 GitHub Stats 
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KBRPMatze\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
 ---
 
 # 📌 Current Goals
