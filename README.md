@@ -194,7 +194,8 @@ Modernes HUD System für FiveM.
 
 # 🧠 Languages
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=voidematze\&layout=compact\&theme=tokyonight\&hide_border=true)
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=voidematze&theme=tokyonight&hide_border=true"/>
+
 
 # 📊 GitHub Stats 
 
